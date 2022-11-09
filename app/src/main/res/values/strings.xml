@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Xchange</string>
+    <string name="convertFrom">From</string>
+    <string name="convertTo">To</string>
+    <string name="convertButton">Convert</string>
+    <string name="currency_xchange">Currency Xchange</string>
+    <string name="add_amount_to">add amount</string>
+    <string name="add_amount_from">add amount</string>
+</resources>

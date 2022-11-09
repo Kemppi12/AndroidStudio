@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency Xchange</string>
+    <string name="convertFrom">Valuutasta</string>
+    <string name="convertTo">Valuuttaan</string>
+    <string name="convertButton">Laske muunnos</string>
+    <string name="currency_xchange">Currency Xchange</string>
+    <string name="add_amount_to">syötä summa</string>
+    <string name="add_amount_from">syötä summa</string>
+</resources>
